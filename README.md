@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/christofhunte/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christofhunte/azure-network-protocols)
 - <b>OpenEMR (EMR System) Within Azure VMs</b>
-  - [Installation and Configuration of EMR Systems with Lifestyle Examples](https://github.com/christofhunte/configure-ad)
+  - [Installation and Configuration of EMR Systems with Lifecycle Examples](https://github.com/christofhunte/openemr-install-config-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
